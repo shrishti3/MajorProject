@@ -1,0 +1,112 @@
+{
+    "articles": [
+         {
+              "id": 1,
+              "name": "Relationships",
+              "image":"https://res.cloudinary.com/dsjfatghw/image/upload/v1694952620/tvescrg4u0rk4eagamed.png",
+              "color": "#9DA2FF",
+              "LINK":"s",
+              "Text":""
+         },
+         {
+              "id": 2,
+              "name": "Society",
+              "image":"https://res.cloudinary.com/dsjfatghw/image/upload/v1694952667/jz38b7ur9hekuq95uk9r.png",
+              "color": "#BDE72F",
+              "LINK":"s",
+              "Text":""
+         },
+         {
+              "id": 3,
+              "name": "Therapy",
+              "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1694952748/l5e9olxiktmwiictk08j.png",
+              "color": "#3D87F3",
+              "LINK":"s",
+              "Text":""
+         },
+         {
+              "id": 4,
+              "name": "Wellbeing",
+              "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1694952796/mtpwne1wxqywyeoa4spt.png",
+              "color": "#F9C6EF",
+              "LINK":"s",
+              "Text":""
+         },
+         {
+          "id": 5,
+          "name": "Wellness",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1694952879/eor6swvigs6y3kn6dmw2.jpg",
+          "color": "#F9C6EF",
+          "Link":"A",
+          "Text":""
+     }
+    ],
+    "SecondRow": [
+     { 
+          "id" : 6,
+          "name":"WELLBEING",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695477900/vqt6ff0gtaowmilgi2xv.avif",
+          "color":"A",
+          "Link":"https://happiful.com/how-to-use-colours-to-help-you-thrive",
+          "Text":"How to use colours to help you thrive"
+     },
+     { 
+          "id" : 7,
+          "name":"NEWS",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695477937/gwmybs8uo4sh2k1nxvtv.avif",
+          "color":"A",
+          "Link":"https://happiful.com/those-bereaved-during-lockdown-are-more-likely-to-experience-prolonged-grief-disorder-study-finds",
+          "Text":"Those bereaved during lockdown are more likely to experience prolonged grief disorder, study finds"
+     },
+     { 
+          "id" : 8,
+          "name":"EXPRESS",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695477959/ozgtzrh2gojy0jghcipl.avif",
+          "color":"A",
+          "Link":"https://happiful.com/why-its-still-important-to-talk-about-our-experiences",
+          "Text":"Why it's still important to talk about our experiences"
+     },
+     { 
+          "id" : 9,
+          "name":"HAPPINESS",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695477977/jqk218fmjffyjz4hp25o.avif",
+          "color":"A",
+          "Link":"https://happiful.com/finnishing-school-what-can-the-finns-teach-us-about-happiness",
+          "Text":"Finishing school: What can the Finns teach us about happiness?"
+     },
+     { 
+          "id" : 10,
+          "name":"Friendship ",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695477996/nbm8vbm3d67gx9colpjw.avif",
+          "color":"A",
+          "Link":"https://happiful.com/friendship-finding-what-works",
+          "Text":"Friendship: Finding What works "
+     },
+
+     { 
+          "id" : 11,
+          "name":" children",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695478022/etbiawpstzixdapemxor.avif",
+          "color":"A",
+          "Link":"https://happiful.com/building-courage-in-kids-4-ways-to-be-brave",
+          "Text":"Building courage in kids:4 ways to be brave "
+     },
+     { 
+          "id" : 12,
+          "name":"News ",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695478045/hza9ft2iqqhhwyl3m7bi.avif",
+          "color":"A",
+          "Link":"z",
+          "Text":"Hobbies linked to improved wellbeing among older people"
+     },
+     { 
+          "id" : 13,
+          "name":"Yoga",
+          "image":"http://res.cloudinary.com/dsjfatghw/image/upload/v1695478082/q9q3l0bzxjeq8ye6f1kg.avif",
+          "color":"A",
+          "Link":"https://happiful.com/sexual-harassment-at-work-is-a-big-problem-heres-what-we-can-do-about-it",
+          "Text":"Try the yoga routien designed to help relieve bloating"
+     }
+     
+    ]
+}
